@@ -190,15 +190,6 @@ footer {
 	
 }
 
-/*
-@media all and (max-width:624px) {
-	.row {
-		overflow-y: visible;
-		height: 676px;
-	}
-}
-*/
-
 @media all and (max-width:260px) {
 	.row {
 		padding-top: 10px;
