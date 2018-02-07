@@ -82,6 +82,7 @@ footer {
 	height: 60px;
 	z-index: 100;
 	display: block;
+	text-align: center;
 }
 
 .social-icon {
@@ -145,14 +146,9 @@ footer {
 	}
 	
 	.user-icon {
-/* 		display: block; */
 		margin: 10px auto;
 		height: 220px;
 		width: 235px;
-	}
-
-	footer {
-		text-align: center;
 	}
 
 @media all and (max-width: 970px) {
